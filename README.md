@@ -1,3 +1,4 @@
 # LinkedIn-Profile-Analysis-Using-PowerBI
- * Developed a PowerBI dashboard using personal LinkedIn data.
- * Microsoft PowerBI application is required to view this dashboard.
+ * Implemented a dashboard to visualize LinkedIn profiles
+ * Performed custom calculations to get insights from different columns of various imported data files
+ * Used different visualizations to illustrate varied sets of activities on LinkedIn
